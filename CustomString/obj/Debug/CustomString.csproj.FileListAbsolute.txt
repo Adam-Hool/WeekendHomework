@@ -1,0 +1,6 @@
+C:\devcodecamp\CustomString\CustomString\bin\Debug\CustomString.exe.config
+C:\devcodecamp\CustomString\CustomString\obj\Debug\CustomString.csprojResolveAssemblyReference.cache
+C:\devcodecamp\CustomString\CustomString\bin\Debug\CustomString.exe
+C:\devcodecamp\CustomString\CustomString\bin\Debug\CustomString.pdb
+C:\devcodecamp\CustomString\CustomString\obj\Debug\CustomString.exe
+C:\devcodecamp\CustomString\CustomString\obj\Debug\CustomString.pdb
